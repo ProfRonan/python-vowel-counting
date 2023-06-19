@@ -1,6 +1,7 @@
 """Esse arquivo testa o arquivo example_module.py"""
 
 import unittest  # para criar o caso de teste
+
 from main import count_vowels
 
 
